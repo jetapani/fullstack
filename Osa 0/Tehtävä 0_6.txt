@@ -1,0 +1,4 @@
+tapahtumankäsittelijä estää sivun uudelleenlataamisen ja lisää uuden muistiinpanon listalle
+ja tämän jälkeen muistiinpano lähetetään myös palvelimelle
+
+selain -> palvelin : HTTP POST https://fullstack-exampleapp.herokuapp.com/new_note_spa
